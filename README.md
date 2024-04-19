@@ -1,4 +1,4 @@
-# Hi there! I'm David Mitchell - an aspiring software developer and AI enthusiast!
+# Hi! I'm David Mitchell - an aspiring software developer and AI enthusiast!
 
 I am currently a software development student at Mohawk College, with a passion for machine learning and game development. I've completed projects in multiple programming languages including C#, Java, JavaScript, PHP, and Python. Through my educational journey and personal projects, I've cultivated a strong problem-solving ability, technical support skills, and an eye for innovative solutions. Now, I'm seeking a co-op position to further hone my skills and contribute to real-world projects.
 
